@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "camionet", "CamioNet\camionet.csproj", "{F3C862EC-DA31-42D8-ACAE-00CA1E772FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C862EC-DA31-42D8-ACAE-00CA1E772FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C862EC-DA31-42D8-ACAE-00CA1E772FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C862EC-DA31-42D8-ACAE-00CA1E772FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C862EC-DA31-42D8-ACAE-00CA1E772FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F35363-3FFB-4573-A95E-FD1B0B034081}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@camionet_HostAddress = http://localhost:5291
+
+GET {{camionet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
